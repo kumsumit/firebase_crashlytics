@@ -23,4 +23,4 @@ extensions.configure<LibraryExtension> {
         buildConfigField("String", "LIBRARY_VERSION", "\"$libraryVersionName\"")
         buildConfigField("String", "LIBRARY_NAME", "\"$libraryName\"")
     }
-}-
+}
